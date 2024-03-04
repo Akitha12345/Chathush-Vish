@@ -11,9 +11,11 @@
 
 - I am looking for help with **Backend development**
 
+- All of my projects are available at [https://www.behance.net/chathusvishmik](https://www.behance.net/chathusvishmik)
+
 - Ask me about **Front-end developing**
 
-- 📫 How to reach me **chathushuni@gmail.com**
+- How to reach me **chathushuni@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
