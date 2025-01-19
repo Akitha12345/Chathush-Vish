@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey,+I'm+Chathush+Vishmika,;Self-taught+Front-End+Developer,;Software+Engineering+Student,;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey,+I'm+Chathush+Vishmika,;Front-End+Developer,;Software+Engineering+Student,;"></a>
 </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/chathush-vishmika?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
@@ -14,8 +14,8 @@
 </div>
 <br>
 
-       
 
+  
 <h3 align="left">👩‍💻  About Me</h3>
 
 
