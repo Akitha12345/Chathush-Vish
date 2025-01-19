@@ -14,9 +14,7 @@
 </div>
 <br>
 
-<p  align="center">
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> 
-</p>               
+       
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -25,9 +23,7 @@
 
 ###
 
-<p  align="center">
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> 
-</p>  
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -86,9 +82,7 @@
 </div>
 <br>
 
-<p  align="center">
-<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif"> 
-</p>  
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
