@@ -13,7 +13,7 @@
   <a href="https://www.behance.net/chathusvishmik">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
- <a href="https://chathush-portfolio.netlify.app/" target="_blank">
+ <a href="https://portfolio-chathush.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
 </a>
   <a href="mailto:chathushuni@gmail.com">
