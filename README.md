@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0C81F7&size=28&center=true&vCenter=true&width=600&height=100&lines=Chathush+Vishmika;Front-End+Developer;Software+Engineering+Student;Creative+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0C81F7&size=28&center=true&vCenter=true&width=600&height=100&lines=Chathush+Vishmika;Full-Stack+Developer;Software+Engineering+Student;Interested+in+AI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -72,10 +72,6 @@ I'm a full-stack developer currently pursuing my Software Engineering degree at 
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chathush-vish&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Chathush's GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathush-vish&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="170"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathush-vish&theme=react&hide_border=true" alt="GitHub Streak" />
