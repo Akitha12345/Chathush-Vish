@@ -1,12 +1,8 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0C81F7&size=28&center=true&vCenter=true&width=600&height=100&lines=Chathush+Vishmika;Full-Stack+Developer;Software+Engineering+Student;Interested+in+AI" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">
+  Hey There, I'm Chathush ✌️😉
+</h1>
 
 <div align="center">
-  <p>Software Engineering student passionate about creating elegant, user-centric web experiences.</p>
-  
   <a href="https://www.linkedin.com/in/chathush-vishmika">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
