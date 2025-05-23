@@ -11,7 +11,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-chathush.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chathushuni@gmail.com)
 
-<br>
 
 </div>
 
@@ -72,20 +71,5 @@ I'm a passionate full-stack developer currently pursuing my Software Engineering
 </div>
 
 
-<br>
-
-## Let's Connect
-
-I'm always interested in discussing new opportunities, sharing knowledge, and collaborating on exciting projects. Feel free to reach out!
-
-**📧 Email:** chathushuni@gmail.com  
-**🌐 Portfolio:** [portfolio-chathush.vercel.app](https://portfolio-chathush.vercel.app/)
-
-<div align="center">
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=chathush-vish&style=flat-square&color=58A6FF)
-
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
-
-</div>
