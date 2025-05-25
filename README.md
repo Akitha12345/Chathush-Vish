@@ -19,7 +19,7 @@ I'm a passionate full-stack developer currently pursuing my Software Engineering
 - 🤖 Interested in AI & Machine Learning
 - 📚 Mastering the MERN Stack (MongoDB, Express, React, Node.js)
 - 🎓 Software Engineering Student at SLIIT Campus
-- 🤝 Open to collaboration on innovative web projects
+- 🤝 Reach me - chathushuni@gmail.com
 
 <br>
 
