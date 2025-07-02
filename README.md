@@ -4,7 +4,7 @@
 *Full Stack Developer | Experienced frontend Developer | SE Student*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chathush-vishmika)
-[![Portfolio](https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://portfolio-chathush.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://www.chathush.me/)
 [![Email](https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:chathushuni@gmail.com)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/chathusvishmik)
 
