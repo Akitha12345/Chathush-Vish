@@ -10,20 +10,21 @@
 
 </div>
 
-## 👨‍💻 About Me
+<br/>
 
-I'm a passionate full-stack developer currently pursuing my Software Engineering degree at SLIIT Campus. I specialize in creating responsive, user-centric web applications and have a keen eye for design and user experience.
+<div align="center">
+  
+📊 GitHub Analytics
 
-**Current Focus:**
-- 🔧 Working as a Front-End Developer
-- 🤖 Interested in AI & Machine Learning
-- 📚 Mastering the MERN Stack (MongoDB, Express, React, Node.js)
-- 🎓 Software Engineering Student at SLIIT Campus
-- 🤝 Reach me - chathushuni@gmail.com
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chathush-vish&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
-<br>
+</div>
 
-## 🛠️ Technical Skills
+<br/>
+
+<div align="center">
+
+🛠️ Technical Skills
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-21262D?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -39,6 +40,7 @@ I'm a passionate full-stack developer currently pursuing my Software Engineering
 ![MongoDB](https://img.shields.io/badge/MongoDB-21262D?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![PHP](https://img.shields.io/badge/PHP-21262D?style=for-the-badge&logo=php&logoColor=777BB4)
 ![MySQL](https://img.shields.io/badge/MySQL-21262D?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-21262D?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 
 ### Design & CMS
 ![Figma](https://img.shields.io/badge/Figma-21262D?style=for-the-badge&logo=figma&logoColor=F24E1E)
@@ -54,10 +56,5 @@ I'm a passionate full-stack developer currently pursuing my Software Engineering
 ![Java](https://img.shields.io/badge/Java-21262D?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
 <br>
-
-## 📊 GitHub Analytics
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chathush-vish&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
