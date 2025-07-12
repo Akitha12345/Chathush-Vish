@@ -1,23 +1,25 @@
 <div align="center">
 
 # Chathush Vishmika
-*Full Stack Developer | Experienced frontend Developer | SE Student*
+*Full Stack Developer | Software Engineer Undergraduate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chathush-vishmika)
-[![Portfolio](https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://www.chathush.me/)
-[![Email](https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:chathushuni@gmail.com)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/chathusvishmik)
+
 
 </div>
 
 <br/>
 
 <div align="center">
-  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chathush-vish&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathush-vish&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathush-vish&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF" alt="Top Languages" />
+</a>
 
 </div>
+
 
 <br/>
 
