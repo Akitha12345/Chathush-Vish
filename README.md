@@ -1,7 +1,7 @@
 <div align="center">
 
 # Chathush Vishmika
-*Full Stack Developer | Software Engineer Undergraduate
+*Full Stack Developer | Software Engineer Undergraduate*
 
 
 
