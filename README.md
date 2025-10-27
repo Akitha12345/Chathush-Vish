@@ -30,6 +30,8 @@
 ![React](https://img.shields.io/badge/React-21262D?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-21262D?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-21262D?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![MUI](https://img.shields.io/badge/MUI-21262D?style=for-the-badge&logo=mui&logoColor=007FFF)
+![Redux](https://img.shields.io/badge/Redux-21262D?style=for-the-badge&logo=redux&logoColor=764ABC)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-21262D?style=for-the-badge&logo=nodedotjs&logoColor=339933)
